@@ -1,6 +1,6 @@
 [
 	{
-		"UID":"551aef963f714f0bb9346026968449a2",
+		"UID":"26dcf5ba868916b9d2c16b4fa6523894",
 		"Name":"Subdomain",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -9,13 +9,13 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Datalist/subdomain-1-1.tar.gz",
-		"Checksum":"af37ab782ff67ac3eb8b13ecbde219834798fa336746b01f167c0d018ebebb9aea67af4f18bb3bc6653b24c69dbeca558ccc080a01f96081e5b255e960a489b9",
+		"Checksum":"43597ced6e262de9283d6fd6e77723fadd04cb967f31b9950e62c4857bfb03e69e1f80a29b612aab354e95d483fcbe1f2f3cbed2ce093325b74895e4a3a8dd6a",
 		"URLChecksum":"",
-		"Size":"1321190",
-		"SizeOnDisk":"3219497",
+		"Size":"1321707",
+		"SizeOnDisk":"3220848",
 		"Description":"Multiple subdomains lists",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"domain.png",
-		"Date":"1720989439"
+		"Date":"1720991607"
 	}
 ]
