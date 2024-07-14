@@ -1,21 +1,21 @@
 [
-        {
-                "UID":"348fe3b6abaffd05b4694096ea9e0aef",
-                "Name":"Subdomain",
-                "Category":"LPE",
-                "MajorVersion":"0",
-                "MinorVersion":"0",
-                "BuildVersion":"1",
-                "RequireMin":"0",
-                "RequireMax":"0",
-                "URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Datalist/subdomain-1-1.tar.gz",
-                "Checksum":"1dc89db1974792d47eca1a02ba3d089f8327218d390f85bfcbde226208cde6048642139a58fe7fbf7cc619500adf24a1be59a33ee64c1f355dce0a2731293fcb",
-                "URLChecksum":"",
-                "Size":"1321187",
-                "SizeOnDisk":"3219484",
-                "Description":"Multiple subdomains lists",
-                "Builder":"Ulysse@redsword.io",
-                "Icon":"domain.png",
-                "Date":"1720988749"
-        }
+	{
+		"UID":"551aef963f714f0bb9346026968449a2",
+		"Name":"Subdomain",
+		"Category":"LPE",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Datalist/subdomain-1-1.tar.gz",
+		"Checksum":"af37ab782ff67ac3eb8b13ecbde219834798fa336746b01f167c0d018ebebb9aea67af4f18bb3bc6653b24c69dbeca558ccc080a01f96081e5b255e960a489b9",
+		"URLChecksum":"",
+		"Size":"1321190",
+		"SizeOnDisk":"3219497",
+		"Description":"Multiple subdomains lists",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"domain.png",
+		"Date":"1720989439"
+	}
 ]
