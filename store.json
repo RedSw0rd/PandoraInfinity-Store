@@ -1,21 +1,21 @@
 [
 	{
-		"UID":"d221c029701416608b5d1ad7f508b30d",
-		"Name":"Subdomain",
-		"Category":"LPE",
+		"UID":"5e58c590a80d76e55046d5dddfdb080e",
+		"Name":"HackBack",
+		"Category":"EZINE",
 		"MajorVersion":"0",
 		"MinorVersion":"0",
 		"BuildVersion":"1",
 		"RequireMin":"0",
 		"RequireMax":"0",
-		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Datalist/subdomain-1-1.tar.gz",
-		"Checksum":"4e1da2619ffaa2302f894186b0fde6c9ffecd654490603ea533367de0a4fe38435e01014edea15b4cc820ee354f73896a1be24f4c25fe7fe016f50e806b99e64",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/hackback.tar.gz",
+		"Checksum":"0e44ee5c42bfd2d19bf8ae729aec82e6e12814bb0c62d94eaafcebac2c1e81903c045ae6c2fe11731905d8fdfebfc0684cd786b09a17b47c63502abbfa5d9420",
 		"URLChecksum":"",
-		"Size":"1321190",
-		"SizeOnDisk":"3219483",
-		"Description":"Multiple subdomains lists",
+		"Size":"52743",
+		"SizeOnDisk":"143237",
+		"Description":"HackBack ezine",
 		"Builder":"Ulysse@redsword.io",
-		"Icon":"domain.png",
-		"Date":"1720992475"
+		"Icon":"text.png",
+		"Date":"1721002192"
 	}
 ]
