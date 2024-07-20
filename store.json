@@ -19,7 +19,7 @@
 		"Date":"1721003189"
 	},
 	{
-		"UID":"7d92397e95c43355fb5606d4de56c5d5",
+		"UID":"e589bbbb7a2277516ba44663e4acae40",
 		"Name":"chocobo_root",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -35,6 +35,6 @@
 		"Description":"Local root exploit (CVE-2016-8655)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpe.png",
-		"Date":"1721463168"
+		"Date":"1721508830"
 	}
 ]
