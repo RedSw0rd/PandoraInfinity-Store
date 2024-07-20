@@ -19,7 +19,7 @@
 		"Date":"1721003189"
 	},
 	{
-		"UID":"ff94c10f8627c8b68c0b00146eb6f5cd",
+		"UID":"7d92397e95c43355fb5606d4de56c5d5",
 		"Name":"chocobo_root",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -28,13 +28,13 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/LPE/linux/chocobo_root.tar.gz",
-		"Checksum":"2bd8c2d3426ce7e57a37eb43f0c82ef2ba9944835e5f5fc02a30d7a45170c2affd1425a9743f31038fe6c44d6f74212f460dae74acc48f7ef3d857d5de93b453",
+		"Checksum":"19159256c3b1a95793e12933c80d05ab7581cffa2bb82687921da5ee925761e7ee6cf37d9928ed9ba3187ecde171a1263eab178cbea86ca54d48bbe8b0758453",
 		"URLChecksum":"",
-		"Size":"8043",
-		"SizeOnDisk":"42274",
-		"Description":"Local root exploit",
+		"Size":"8076",
+		"SizeOnDisk":"42339",
+		"Description":"Local root exploit (CVE-2016-8655)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpe.png",
-		"Date":"1721458649"
+		"Date":"1721463168"
 	}
 ]
