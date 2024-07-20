@@ -36,5 +36,43 @@
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpe.png",
 		"Date":"1721508830"
+	},
+	{
+		"UID":"c2ca0ae6b07aea8ebbe301739040bde9",
+		"Name":"Subdomain",
+		"Category":"DATALIST",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Datalist/subdomain-1-1.tar.gz",
+		"Checksum":"755be9efb9c3ac740fa88533562972a547c6b5fefb716b8a6cd29eabdeb9153ab2795b9083098c958e1a845455bdde479204212b3f74629a50ee428a75e43faf",
+		"URLChecksum":"",
+		"Size":"1321240",
+		"SizeOnDisk":"3219902",
+		"Description":"Multiple subdomains lists",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"domain.png",
+		"Date":"1721512703"
+	},
+	{
+		"UID":"eddfa95924dd646de6ef3a2366066bf4",
+		"Name":"Smash The Stack",
+		"Category":"DOCUMENT",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/SmashTheStack.tar.gz",
+		"Checksum":"8abe7ff3d59e720a180624a2419ec50e90db25159d488d3efdde5467ac7ba3bc4b121d0475020fd2a757e10ade88860c30724734f565af1f193953de980d794e",
+		"URLChecksum":"",
+		"Size":"496011",
+		"SizeOnDisk":"523500",
+		"Description":"Smashing the Stack for Fun and Profit - Originally written by Aleph One and heavy formatting done by avicoder",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"doc.png",
+		"Date":"1721516931"
 	}
 ]
