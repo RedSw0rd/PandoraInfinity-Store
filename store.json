@@ -74,5 +74,24 @@
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"doc.png",
 		"Date":"1721516931"
+	},
+	{
+		"UID":"45929656dfa273a41eed6fcb277886dc",
+		"Name":"Common-Password",
+		"Category":"WORDLIST",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Wordlist/common-password.tar.gz",
+		"Checksum":"aaf1b4a5cbc3d9434fef3102901891396e560e5c299172eac9986a41a24fd540bb94a46f4b3833b56bc611cb64b109d2c4a75fca94640a7663c9292a496788ed",
+		"URLChecksum":"",
+		"Size":"50246",
+		"SizeOnDisk":"110604",
+		"Description":"Most common password list",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"pass.png",
+		"Date":"1721517301"
 	}
 ]
