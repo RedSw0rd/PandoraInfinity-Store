@@ -93,5 +93,24 @@
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"pass.png",
 		"Date":"1721517301"
+	},
+	{
+		"UID":"3a7165376586cc9c11069819ab249c8f",
+		"Name":"Leaked-Password 1",
+		"Category":"WORDLIST",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Wordlist/leaked-password-1.tar.gz",
+		"Checksum":"e00de187cc99c2caf13cf4cf023fdefd9600ab279b2c6bc011a3ff7b6dd7b72f3740c04cec84a45170b58b98622b3ddee7075e5feba868567a1bba0f0585cf98",
+		"URLChecksum":"",
+		"Size":"2322019",
+		"SizeOnDisk":"5509512",
+		"Description":"Leaked password list",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"pass.png",
+		"Date":"1721517393"
 	}
 ]
