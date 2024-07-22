@@ -304,6 +304,25 @@
 		"Date":"1721643143"
 	},
 	{
+		"UID":"e21b7c03e4cd31559578fe8d1eeb466d",
+		"Name":"chocobo_root",
+		"Category":"LPE",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/LPE/linux/chocobo_root.tar.gz",
+		"Checksum":"3de2b169b6b6c08d33d7f3130ccf4ee2febece19510caa841a62007d2888bc992d5c56296772418b8970bfb127a23e4d88e77421897815f837f38abea8f5d347",
+		"URLChecksum":"",
+		"Size":"8060",
+		"SizeOnDisk":"42313",
+		"Description":"Linux AF_PACKET race condition exploit (CVE-2016-8655)",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"lpebug.png",
+		"Date":"1721647164"
+	},
+	{
 		"UID":"0e38a3b8230f308ed3aee21e75012ba7",
 		"Name":"Common-Password (1)",
 		"Category":"WORDLIST",
