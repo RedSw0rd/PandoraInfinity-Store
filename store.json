@@ -380,6 +380,25 @@
 		"Date":"1721647164"
 	},
 	{
+		"UID":"eec51aa956b4e472469d107c30810f74",
+		"Name":"ADCSPwn",
+		"Category":"TOOLBOX",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Toolbox/adcspwn.tar.gz",
+		"Checksum":"85d3df70d433a8ef02e5d3204131e1fb648783dca1e0e3c04a6d059115acd65b3d2dbca029ab1ce2d89212d4f0b36744a342d2b459aae0ad91353e07634b4e52",
+		"URLChecksum":"",
+		"Size":"2798042",
+		"SizeOnDisk":"2955379",
+		"Description":"Domain Privilege Escalation tool",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"tools2.png",
+		"Date":"1721656411"
+	},
+	{
 		"UID":"0e38a3b8230f308ed3aee21e75012ba7",
 		"Name":"Common-Password (1)",
 		"Category":"WORDLIST",
