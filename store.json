@@ -190,7 +190,7 @@
 		"Date":"1721637473"
 	},
 	{
-		"UID":"2ca048951bcd2469a60f2f71e6052542",
+		"UID":"929c3446814bd62d70c2cb58374bc039",
 		"Name":"HTP",
 		"Category":"EZINE",
 		"MajorVersion":"0",
@@ -205,11 +205,11 @@
 		"SizeOnDisk":"3179096",
 		"Description":"HTP Ezine",
 		"Builder":"Ulysse@redsword.io",
-		"Icon":"text.png",
-		"Date":"1721649003"
+		"Icon":"text2.png",
+		"Date":"1721650236"
 	},
 	{
-		"UID":"646517e81d09f6f2b19226b24d705b07",
+		"UID":"9ccf6c7ac95c62d7c248174e667bfb08",
 		"Name":"HackBack",
 		"Category":"EZINE",
 		"MajorVersion":"0",
@@ -224,11 +224,11 @@
 		"SizeOnDisk":"143210",
 		"Description":"HackBack Ezine",
 		"Builder":"Ulysse@redsword.io",
-		"Icon":"text.png",
-		"Date":"1721648988"
+		"Icon":"text2.png",
+		"Date":"1721650227"
 	},
 	{
-		"UID":"ad79d5a92ea3e1cf82913ebae1f24152",
+		"UID":"c47f1f225190e124ce58f3aa7c24cee0",
 		"Name":"ZF0",
 		"Category":"EZINE",
 		"MajorVersion":"0",
@@ -243,8 +243,8 @@
 		"SizeOnDisk":"5140847",
 		"Description":"ZF0 Ezine",
 		"Builder":"Ulysse@redsword.io",
-		"Icon":"text.png",
-		"Date":"1721649012"
+		"Icon":"text2.png",
+		"Date":"1721650244"
 	},
 	{
 		"UID":"4974ef1cc958d846277b9e6652a1a6d3",
