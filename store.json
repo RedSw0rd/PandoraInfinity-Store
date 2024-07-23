@@ -228,7 +228,7 @@
 		"Date":"1721650227"
 	},
 	{
-		"UID":"231eb85e65ab35c714c0d046e85646e3",
+		"UID":"e05311ecc81ae9ce2ab752a71327d06e",
 		"Name":"PHRACK",
 		"Category":"EZINE",
 		"MajorVersion":"0",
@@ -237,14 +237,14 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/phrack.tar.gz",
-		"Checksum":"17fbb3e95134f56efa1e9fd6fd663d63a0fa7533730c8d29f7fc733a3977b8b7794a2b32abd2d6708a1afee7eef6bb88e324ee70ada9631b420b7180a2a441a6",
+		"Checksum":"8012b4d94c9fb1f37c37b79a8e906a2a76423d47ee16f3468c1d4970c0be3efaf62905eccfcbc553228c1c4c4066967648d56c2496bc3d509cb75b8bc5626b4f",
 		"URLChecksum":"",
-		"Size":"1867123",
-		"SizeOnDisk":"4719970",
+		"Size":"1867131",
+		"SizeOnDisk":"4719974",
 		"Description":"PHRACK Ezine",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"text2.png",
-		"Date":"1721726892"
+		"Date":"1721727344"
 	},
 	{
 		"UID":"c47f1f225190e124ce58f3aa7c24cee0",
