@@ -228,6 +228,25 @@
 		"Date":"1721650227"
 	},
 	{
+		"UID":"231eb85e65ab35c714c0d046e85646e3",
+		"Name":"PHRACK",
+		"Category":"EZINE",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/phrack.tar.gz",
+		"Checksum":"17fbb3e95134f56efa1e9fd6fd663d63a0fa7533730c8d29f7fc733a3977b8b7794a2b32abd2d6708a1afee7eef6bb88e324ee70ada9631b420b7180a2a441a6",
+		"URLChecksum":"",
+		"Size":"1867123",
+		"SizeOnDisk":"4719970",
+		"Description":"PHRACK Ezine",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"text2.png",
+		"Date":"1721726892"
+	},
+	{
 		"UID":"c47f1f225190e124ce58f3aa7c24cee0",
 		"Name":"ZF0",
 		"Category":"EZINE",
