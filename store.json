@@ -456,7 +456,7 @@
 		"Date":"1721656411"
 	},
 	{
-		"UID":"20deafd0ec5ca567467c40c023ff462a",
+		"UID":"48ba0a11ceeef62e1035b3c77ad412c2",
 		"Name":"GodPotato",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -465,14 +465,14 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Toolbox/godpotato.tar.gz",
-		"Checksum":"48fc081d5dd090dd1a394ee7a1336559b762874672ef0e5be0ca5955c41d39ab66d88acbb1f933988ea654f1b7d17768ca3375fedba36005e49ac9c70fffb126",
+		"Checksum":"6eed2b5ffa3ae48d43d77461d26d11a24a553f75ba24989bda01376ef7fc803c55a362c6cfc85792858bec7e4b2508cd44257b5e9abba931ea8b64fddd6119a3",
 		"URLChecksum":"",
-		"Size":"77667",
-		"SizeOnDisk":"190036",
+		"Size":"52381",
+		"SizeOnDisk":"129754",
 		"Description":"Local Privilege Escalation tool",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1721908660"
+		"Date":"1721911164"
 	},
 	{
 		"UID":"1932c5ec9685cc3d97ec41dbfbf7a834",
@@ -741,7 +741,7 @@
 		"Date":"1721908814"
 	},
 	{
-		"UID":"1f728535b3eafcd1c71f8795ffb6f16a",
+		"UID":"de7f616c18ebd8e73da93a33dda764f4",
 		"Name":"Socat (1.7.4.4)",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -750,14 +750,14 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Toolbox/socat-1.7.4.4.tar.gz",
-		"Checksum":"1c340867513dbbf2442488ef29f5740b15c4036ae35654029fa7377e7272ad0cbd088f2ba88c7e81303753c32c18083d1f9703e9b9c79ed28347d6367f4d9196",
+		"Checksum":"87a92534f6774c5218f4bd533402921480c550ef4f4939ec8d84b34c8658424e6a18437966560c979cd82d20b910ab4bb994139f5ae83cdb81002624356b5cb6",
 		"URLChecksum":"",
-		"Size":"5027889",
-		"SizeOnDisk":"12187100",
+		"Size":"5027886",
+		"SizeOnDisk":"12187074",
 		"Description":"Multipurpose relay tool",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1721908821"
+		"Date":"1721911124"
 	},
 	{
 		"UID":"e62efba1f5602fc2bae9670be8a80f84",
