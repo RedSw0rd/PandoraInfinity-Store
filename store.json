@@ -1,6 +1,6 @@
 [
 	{
-		"UID":"b2f27c3e308a78e210b514985b23cf87",
+		"UID":"f63756729c69d725b024e79824b81b25",
 		"Name":"Payloads (1)",
 		"Category":"DATALIST",
 		"MajorVersion":"0",
@@ -9,17 +9,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Datalist/payloads-1.tar.gz",
-		"Checksum":"fe4b2c13792725394e84864316673ed7d1a75d7b617751a3c71c76f75d0850d28ed6685b8f65c07eedc53eb022178f324e13ca4b0e6efb5885735a74de3d8e18",
+		"Checksum":"5eb601ee52ae7faae19ce399a42b82b0522505ff0e85b261518a9025609ae10afce643b742eaf13ace5db76eebed38f0c76dcb554dd534103591819fe63b6424",
 		"URLChecksum":"",
-		"Size":"57679",
-		"SizeOnDisk":"477118",
+		"Size":"57678",
+		"SizeOnDisk":"477111",
 		"Description":"Multiple Web Payloads (SQLi, LFI,etc)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1724609417"
+		"Date":"1726034866"
 	},
 	{
-		"UID":"b5b0717275600792b5e0c2ea735b36e7",
+		"UID":"06d61d5fdde262c1bc2a643bc6eafcce",
 		"Name":"Subdomain list (1)",
 		"Category":"DATALIST",
 		"MajorVersion":"0",
@@ -28,17 +28,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Datalist/subdomain-1.tar.gz",
-		"Checksum":"800038d9eba9bf6cf37ef6f7154862712986aa20aaf49a805511e64bfc6acf426f55c78660c382ac96e5416cf90d3243a8be4c6dde9be6c955cb820deff59628",
+		"Checksum":"551c40783e9c86b9fe6e5590b79297938caf113e9a37c198470f422c1a5008c7fe023e41b0806d976691e10173de33ce58890340d5225e6c97ceb2296a8770e1",
 		"URLChecksum":"",
-		"Size":"1322697",
-		"SizeOnDisk":"3211687",
+		"Size":"1322692",
+		"SizeOnDisk":"3211680",
 		"Description":"Multiple subdomains lists",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"www.png",
-		"Date":"1724609418"
+		"Date":"1726034866"
 	},
 	{
-		"UID":"364ea09facbfc9baa932cb38846f3642",
+		"UID":"7a8db7ce0e8f6e72193a90accdd0ee73",
 		"Name":"Web Application Server (1)",
 		"Category":"DATALIST",
 		"MajorVersion":"0",
@@ -47,17 +47,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Datalist/web-appserver-1.tar.gz",
-		"Checksum":"f715e3520d65f0fca08ae01db089355b49d6baeaf90be2147a8a75cb665c493200a3c3addf46db9e5be2df8e17c8940df739e2240a5bced9554726ed07356e77",
+		"Checksum":"55ca0b1ba8ec575d3271ac749235451203668532f0d499dbe2c4fff8a0170c70b33c7ffafbd0c93f40f031f7cd0bbb87169e95ab8847919ea5c787c17e3ab9f8",
 		"URLChecksum":"",
-		"Size":"25101",
-		"SizeOnDisk":"124901",
+		"Size":"25103",
+		"SizeOnDisk":"124894",
 		"Description":"Application server common location",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"internet-4.png",
-		"Date":"1724609417"
+		"Date":"1726034865"
 	},
 	{
-		"UID":"57e2d1ef2e67d6620f96a3aaf4c50ffa",
+		"UID":"bb8c7fcc6ecc4ace8a2a045361e6e1bb",
 		"Name":"Web backdoor (1)",
 		"Category":"DATALIST",
 		"MajorVersion":"0",
@@ -66,17 +66,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Datalist/web-backdoor-1.tar.gz",
-		"Checksum":"433ceec3f96d5cf32359fb5aa7d44b9b0a5d921495af221b59fa22abdcf16926f25e0d2da33da3b595a179936efa2312d1af07a6db9f09445dc3982adba5bde6",
+		"Checksum":"63d83900921e29f79b5e307fbde1824692dc9529d073bf7c01cfd64bdd042672043b2da0ab6575a3730154bc5ab2b974b0aceee9ee8b45562c4dc9a1cb4cfc6d",
 		"URLChecksum":"",
-		"Size":"2036",
-		"SizeOnDisk":"6574",
+		"Size":"2032",
+		"SizeOnDisk":"6567",
 		"Description":"Common Web backdoor path",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"internet-4.png",
-		"Date":"1724609419"
+		"Date":"1726034867"
 	},
 	{
-		"UID":"1a99b62700f1455437e0cac05551dd97",
+		"UID":"bb14de9f0f56433089f61a4e34f1420f",
 		"Name":"Web file location (1)",
 		"Category":"DATALIST",
 		"MajorVersion":"0",
@@ -85,17 +85,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Datalist/web-1.tar.gz",
-		"Checksum":"e35947e28abc97898fd4409757813232ca8aed7345340b9022c67db2bdc32a16f1ef8f64a02d8c9c01ba5e50fd9d298faa93580138f677add67b83b7beaecf60",
+		"Checksum":"79ef14b57127b0dd29556e7a9ddbb6b6210bd251f2b4a4fdc8a5df531e212493797de9459117a2cc27e3db29d2d62539615ccb58638f63b900a96d4cac766aa9",
 		"URLChecksum":"",
-		"Size":"3247384",
-		"SizeOnDisk":"7693055",
+		"Size":"3247386",
+		"SizeOnDisk":"7693048",
 		"Description":"Multiple directory/file names lists",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"internet-4.png",
-		"Date":"1724609418"
+		"Date":"1726034867"
 	},
 	{
-		"UID":"535e06193b141e06ceee25a328ba802d",
+		"UID":"cb3f000b28236caa4a97e6076667549c",
 		"Name":"Web login (1)",
 		"Category":"DATALIST",
 		"MajorVersion":"0",
@@ -104,17 +104,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Datalist/web-login-1.tar.gz",
-		"Checksum":"1ca15c536cea12a3cf1a1e6eddf80ba5269482dbf7f75c7c247296786f761f01622652ae5759fbe0a7517b1826cdc9944558f9cc829068725ddeadafb39e7250",
+		"Checksum":"f2da66b472c05c92b8ee163980b538d642055ca3ae40afaf965f9aba26cd6fd0b963d6b3815f8b242b335a06fe72d7cbdf4fd5862f2d97cb3caf4e5ebd7cee7c",
 		"URLChecksum":"",
-		"Size":"4487",
-		"SizeOnDisk":"30707",
+		"Size":"4484",
+		"SizeOnDisk":"30700",
 		"Description":"Common Web login page location",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"internet-4.png",
-		"Date":"1724609417"
+		"Date":"1726034866"
 	},
 	{
-		"UID":"429f1c1dac002161fdf770494fafcf79",
+		"UID":"a2b1b6b7af9c32d9fa20696635635987",
 		"Name":"Web misc (1)",
 		"Category":"DATALIST",
 		"MajorVersion":"0",
@@ -123,17 +123,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Datalist/web-misc-1.tar.gz",
-		"Checksum":"ca0b173b3cfef123a3b93d08b0257f59b6d24457caedd29582c3c8721978dae8684908377f794ce036e21f6f499986f88765cae3d1138395c3b6f2eee3da521f",
+		"Checksum":"3c78044514f75f3c0fdf1dc641a35981866ba6d69d9077fb8a4f0a960810515cb26c977d6e717d224bcee8d66ff78b301a90aa597c6352d6b8b641feab6e96ff",
 		"URLChecksum":"",
-		"Size":"112424",
-		"SizeOnDisk":"604292",
+		"Size":"112423",
+		"SizeOnDisk":"604285",
 		"Description":"Misc",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"internet-4.png",
-		"Date":"1724609418"
+		"Date":"1726034867"
 	},
 	{
-		"UID":"a9bbff8aac7cbcbd88b8e501da5b4074",
+		"UID":"3e9afeb675fd88d3581e91e6011e00dc",
 		"Name":"From APK to Golden Ticket",
 		"Category":"DOCUMENT",
 		"MajorVersion":"0",
@@ -149,10 +149,10 @@
 		"Description":"Owning an Android smartphone and gaining Domain Admin rights and more",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"docfile.png",
-		"Date":"1724609417"
+		"Date":"1726034865"
 	},
 	{
-		"UID":"1a2481c94d8475f72cdf454884d98c6e",
+		"UID":"1ca5a2f7098d02612b32c71b83029c68",
 		"Name":"Smash The Stack",
 		"Category":"DOCUMENT",
 		"MajorVersion":"0",
@@ -168,10 +168,10 @@
 		"Description":"Smashing the Stack for Fun and Profit - Originally written by Aleph One and heavy formatting done by avicoder",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"docfile.png",
-		"Date":"1724609417"
+		"Date":"1726034865"
 	},
 	{
-		"UID":"f36af47d8e5cc2e23b32720c1c9b523a",
+		"UID":"a2853c4b181913c97f394786ff9d770d",
 		"Name":"The Hackers Hardware Toolkit",
 		"Category":"DOCUMENT",
 		"MajorVersion":"0",
@@ -187,10 +187,10 @@
 		"Description":"The Hackers Hardware Toolkit Guide",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"docfile.png",
-		"Date":"1724609417"
+		"Date":"1726034865"
 	},
 	{
-		"UID":"67a5e1496089ab5a2340bc2ceec02b11",
+		"UID":"bef1295ecf0bb9dc047f1faddbb92a47",
 		"Name":"HTP",
 		"Category":"EZINE",
 		"MajorVersion":"0",
@@ -206,10 +206,10 @@
 		"Description":"HTP Ezine",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"text2.png",
-		"Date":"1724609416"
+		"Date":"1726034864"
 	},
 	{
-		"UID":"2cd70a995b8e4986f73fcd8cca7f79ff",
+		"UID":"8782592a92215a1b9bc752bdca10eb18",
 		"Name":"HackBack",
 		"Category":"EZINE",
 		"MajorVersion":"0",
@@ -225,10 +225,10 @@
 		"Description":"HackBack Ezine",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"text2.png",
-		"Date":"1724609415"
+		"Date":"1726034864"
 	},
 	{
-		"UID":"0d5a6969e53369ce6b0d86f6880f6985",
+		"UID":"90369a63e20082dcb8d090be0d02f1cc",
 		"Name":"PHRACK",
 		"Category":"EZINE",
 		"MajorVersion":"0",
@@ -244,10 +244,10 @@
 		"Description":"PHRACK Ezine",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"text2.png",
-		"Date":"1724609416"
+		"Date":"1726034864"
 	},
 	{
-		"UID":"fcd959b1d9f6e9513054c72ecd07ef77",
+		"UID":"3b64833c15e9ac280f3c2ee6d5e2182d",
 		"Name":"ZF0",
 		"Category":"EZINE",
 		"MajorVersion":"0",
@@ -263,10 +263,10 @@
 		"Description":"ZF0 Ezine",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"text2.png",
-		"Date":"1724609416"
+		"Date":"1726034864"
 	},
 	{
-		"UID":"1ba8a540ce0a7f36ded2e0dc19558097",
+		"UID":"33b9a878dec5d12a2bd3c220ea39b8f9",
 		"Name":"Common Tool Cheatsheet (1)",
 		"Category":"IMAGE",
 		"MajorVersion":"0",
@@ -282,10 +282,10 @@
 		"Description":"Common Tool Cheatsheet Images Collection",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"image2.png",
-		"Date":"1724609414"
+		"Date":"1726034863"
 	},
 	{
-		"UID":"522970196aab04502ee8f90b35c39fd7",
+		"UID":"034cadb6622c61772a3527cac842e3e9",
 		"Name":"Misc Cheatsheet (1)",
 		"Category":"IMAGE",
 		"MajorVersion":"0",
@@ -301,10 +301,10 @@
 		"Description":"Misc Cheatsheet Images Collection",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"image2.png",
-		"Date":"1724609414"
+		"Date":"1726034862"
 	},
 	{
-		"UID":"16e2b70284d52e71ad71964437b82759",
+		"UID":"7727043adf602dba27039af949fb86a9",
 		"Name":"Network Cheatsheet (1)",
 		"Category":"IMAGE",
 		"MajorVersion":"0",
@@ -320,10 +320,10 @@
 		"Description":"Network Cheatsheet Images Collection",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"image2.png",
-		"Date":"1724609415"
+		"Date":"1726034863"
 	},
 	{
-		"UID":"2105fddc63bcfa18f65460f3530ea56c",
+		"UID":"4625218c998747850d9a7bb7461b2ee1",
 		"Name":"Pentest (1)",
 		"Category":"IMAGE",
 		"MajorVersion":"0",
@@ -339,10 +339,10 @@
 		"Description":"Pentest Images Collection",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"image2.png",
-		"Date":"1724609415"
+		"Date":"1726034863"
 	},
 	{
-		"UID":"80a2066e64e3f4f66348a94f96276287",
+		"UID":"c0f2eed7eb866e40a94a7ff4a3da05f2",
 		"Name":"Pentest Cheatsheet (1)",
 		"Category":"IMAGE",
 		"MajorVersion":"0",
@@ -358,10 +358,10 @@
 		"Description":"Pentest Cheatsheet Images Collection",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"image2.png",
-		"Date":"1724609414"
+		"Date":"1726034862"
 	},
 	{
-		"UID":"930f13322b69fbbee18a5b30bf4a8134",
+		"UID":"5e61f458501d465e3d8eddabeded56c7",
 		"Name":"Pentest Tool Cheatsheet (1)",
 		"Category":"IMAGE",
 		"MajorVersion":"0",
@@ -377,10 +377,10 @@
 		"Description":"Pentest Tool Cheatsheet Images Collection",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"image2.png",
-		"Date":"1724609415"
+		"Date":"1726034863"
 	},
 	{
-		"UID":"02d7b1357833cdc7ea76cdece31e6f98",
+		"UID":"a47571f8c6f6533c8ddf9b615e15a55f",
 		"Name":"Dirtycow2",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -389,17 +389,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/LPE/linux/Dirtycow2.tar.gz",
-		"Checksum":"30e2e97b93485d0c67a9d390636f0a5e5813aa9b3c92b250eaff95cb26a9cdce79abe0496325df7b25845c2aed688d35682e754acfcf37a3b56d45eebc508258",
+		"Checksum":"231a040e4e21d8e5b2515a72efe780b2cada1bafe17c3af6954060fc0350f2faae96532d791dd2ec822f0ab48b757fc80943508f1bebe4af7b5df41d068f022d",
 		"URLChecksum":"",
-		"Size":"475365",
-		"SizeOnDisk":"1209112",
+		"Size":"475334",
+		"SizeOnDisk":"1208920",
 		"Description":"Local root exploit (CVE-2016-5195)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpebug.png",
-		"Date":"1724609432"
+		"Date":"1726034881"
 	},
 	{
-		"UID":"e2d61075f580a32387d153a0a95cf30a",
+		"UID":"3f643becf689f49dd2a4d0a4dfeb51a8",
 		"Name":"Overlayfs",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -415,10 +415,10 @@
 		"Description":"Local root exploit (CVE-2015-1328)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpebug.png",
-		"Date":"1724609432"
+		"Date":"1726034881"
 	},
 	{
-		"UID":"7f4ea57b09ab51682d2e11435ddd1ee6",
+		"UID":"37dfc5cf91fb4af4aa6852e090f6fc8b",
 		"Name":"Overlayfs2",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -434,10 +434,10 @@
 		"Description":"Local root exploit (CVE-2015-8660)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpebug.png",
-		"Date":"1724609432"
+		"Date":"1726034881"
 	},
 	{
-		"UID":"35bd9afd99b5ed60d2c04569b082d87c",
+		"UID":"9b4eeddc1ec6768f2a50de6c000c11e9",
 		"Name":"PwnKit",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -453,10 +453,10 @@
 		"Description":"Pkexec Local Privilege Escalation - Self-contained version (CVE-2021-4034)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpebug.png",
-		"Date":"1724609432"
+		"Date":"1726034881"
 	},
 	{
-		"UID":"44c8b2d7a40c118ab8aed3442cf98e19",
+		"UID":"e9cde65f2608436c21c5077d62505cf0",
 		"Name":"chocobo_root",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -472,10 +472,10 @@
 		"Description":"Linux AF_PACKET race condition exploit (CVE-2016-8655)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpebug.png",
-		"Date":"1724609432"
+		"Date":"1726034881"
 	},
 	{
-		"UID":"201df6592553388e117224956f9db3b7",
+		"UID":"60d24a46758b88b899f88721bf493f18",
 		"Name":"cve-2016-9793",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -491,10 +491,10 @@
 		"Description":"Local root exploit (CVE-2016-9793)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpebug.png",
-		"Date":"1724609432"
+		"Date":"1726034881"
 	},
 	{
-		"UID":"d914dbd65f6124d1a92c45782c8d816e",
+		"UID":"303f25c24bc14b9780744ca797cde2ce",
 		"Name":"cve-2017-1000112",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -510,10 +510,10 @@
 		"Description":"Local root exploit (CVE-2017-1000112)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpebug.png",
-		"Date":"1724609432"
+		"Date":"1726034881"
 	},
 	{
-		"UID":"5e07a0e6a672fb2254f46c4c123d85b5",
+		"UID":"6cdaf53f3f0d2db4d12b0417dfb78b86",
 		"Name":"cve-2017-18344",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -529,10 +529,10 @@
 		"Description":"Local root exploit (CVE-2017-18344)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpebug.png",
-		"Date":"1724609432"
+		"Date":"1726034880"
 	},
 	{
-		"UID":"922b9ed17fbb698909e116a898b7af01",
+		"UID":"8af483a7251a166edf4334b52b0608b3",
 		"Name":"cve-2017-7308",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -548,10 +548,10 @@
 		"Description":"Linux Kernel AF_PACKET packet_set_ring heap out-of-bounds write local root (CVE-2017-7308)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpebug.png",
-		"Date":"1724609432"
+		"Date":"1726034881"
 	},
 	{
-		"UID":"f40f27dc715305c66d91165baffa98e7",
+		"UID":"1949d6c834f18e4aead0d820858557ad",
 		"Name":"cve-2021-22555",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -567,10 +567,10 @@
 		"Description":"Heap out-of-bounds write local root (CVE-2021-22555)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpebug.png",
-		"Date":"1724609432"
+		"Date":"1726034880"
 	},
 	{
-		"UID":"02c1c38499d35d1b90044063a6b5ff5f",
+		"UID":"69a442ca6427e3751901b1d2e07ca2f9",
 		"Name":"ptrace_traceme_root",
 		"Category":"LPE",
 		"MajorVersion":"0",
@@ -586,10 +586,10 @@
 		"Description":"Linux 4.10 < 5.1.17 PTRACE_TRACEME local root (CVE-2019-13272)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"lpebug.png",
-		"Date":"1724609432"
+		"Date":"1726034881"
 	},
 	{
-		"UID":"e8d1b8bebfacbfe67b5b3d5cece12910",
+		"UID":"79197a21afce752699f36b19bf62ba45",
 		"Name":"AsyncRAT",
 		"Category":"RAT",
 		"MajorVersion":"0",
@@ -598,17 +598,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/RAT/asyncrat-v0.5.8.tar.gz",
-		"Checksum":"69300e0921c816e80cfdd2e79a7320d114c9bb05b73b352c4ebcc93991b4e3e22f7aaba825cc3fcafa6fa165989506c366e4a7615778785d75eb1d4221c28fdd",
+		"Checksum":"87213ea56548e4cda3506870a3696035d32701e1a64bcf048ed527d10e912af996c2d248980bfae0b2836b73abb57dba749d47c8150fb36b3e2f1297b8d657d1",
 		"URLChecksum":"",
-		"Size":"7248087",
-		"SizeOnDisk":"7257943",
+		"Size":"7248115",
+		"SizeOnDisk":"7258008",
 		"Description":"Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"trojan2.png",
-		"Date":"1724609433"
+		"Date":"1726034882"
 	},
 	{
-		"UID":"704c6c786c6cfa5ddc00d7d16c7fa041",
+		"UID":"7caed741606e834302625aa5db110922",
 		"Name":"Quasar RAT",
 		"Category":"RAT",
 		"MajorVersion":"0",
@@ -617,17 +617,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/RAT/quasar-v1.4.1.tar.gz",
-		"Checksum":"4c24a76f60b77caa59d8792aec8c6726fec8c176f0a460d12fb1df6fa4ac8071c7858c692bd93c0f6d856a483e8df0e2a6cc5eec093344233cc42e848d008e0a",
+		"Checksum":"120c1ef5e86f981602c088fc83affa43fb0f0c41c5613715383c53cee59ab9438c53d57879791fcd1b67ce73ddbf84b27073e098d5656ba090c345a060de279f",
 		"URLChecksum":"",
-		"Size":"3422804",
-		"SizeOnDisk":"3439946",
+		"Size":"3422840",
+		"SizeOnDisk":"3440102",
 		"Description":"Free, Open-Source Remote Administration Tool for Windows",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"trojan2.png",
-		"Date":"1724609433"
+		"Date":"1726034882"
 	},
 	{
-		"UID":"af196f54924743bb5c5c414ed17915c8",
+		"UID":"531415c08f2b88a54a1bd9b47427632c",
 		"Name":"ADCSPwn",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -636,17 +636,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Toolbox/adcspwn.tar.gz",
-		"Checksum":"57a03581160b57a28956a44755e8787bf2f454264a485cacd4713b5518db19d21076782414f7bae0bcffc877620cec54ddf33b43093cef7b88772594584fa85d",
+		"Checksum":"6fb6379e84c695a9431e56efcf8d797d43d06314bcc0b2582e311a98eefa21b664d684f1f901a821be92710e607d9daed188e2aeaf54b8adbea9fd8a078ce67a",
 		"URLChecksum":"",
-		"Size":"2797674",
+		"Size":"2797683",
 		"SizeOnDisk":"2947407",
 		"Description":"Domain Privilege Escalation tool",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609432"
+		"Date":"1726034880"
 	},
 	{
-		"UID":"7332e8a5932e4d0d666eccabc90bd5f0",
+		"UID":"773dfc2a8c7a154d886b5e99de593c8d",
 		"Name":"GodPotato",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -662,10 +662,10 @@
 		"Description":"Local Privilege Escalation tool",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609427"
+		"Date":"1726034876"
 	},
 	{
-		"UID":"6ba7fdb7421b120b96640f62eac8387d",
+		"UID":"3bde8a4944fe50e6f6cf82751c535657",
 		"Name":"JuicyPotato",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -681,10 +681,10 @@
 		"Description":"Local Privilege Escalation tool",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609425"
+		"Date":"1726034873"
 	},
 	{
-		"UID":"abfdbcc351800ad8a5f6c27e7f9b430f",
+		"UID":"691e529d3e61c5b29c7200a00bde16b1",
 		"Name":"LaZagne",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -700,10 +700,10 @@
 		"Description":"Open Source Local Password Recovery Tool",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609429"
+		"Date":"1726034877"
 	},
 	{
-		"UID":"91186b271d74c689e40e6eea5bfaa82c",
+		"UID":"40ea8d97d9d33703aaa9609a3f2fbe2d",
 		"Name":"LinPEAS (20240721)",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -719,10 +719,10 @@
 		"Description":"Linux Privilege Escalation Awesome Script",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609427"
+		"Date":"1726034875"
 	},
 	{
-		"UID":"4bca759c762d5d1513f5d93fd3d52771",
+		"UID":"c48d4f96504134e25fa18f0abaab0812",
 		"Name":"MailSniper",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -738,10 +738,10 @@
 		"Description":"Penetration testing tool for searching through email in a Microsoft Exchange environment",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609428"
+		"Date":"1726034876"
 	},
 	{
-		"UID":"5dd724cd75b3b2285c4cec6e73838bdb",
+		"UID":"06e3ea8882650c1fcdd6a3c8a1625f9c",
 		"Name":"Moriarty",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -757,10 +757,10 @@
 		"Description":"Local Privilege Escalation tool",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609429"
+		"Date":"1726034877"
 	},
 	{
-		"UID":"a67740099141cf2f581bd7e7c15d0f49",
+		"UID":"b332e2cc6cb18a1f16959878fbcb218c",
 		"Name":"Netcat",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -776,10 +776,10 @@
 		"Description":"TCP/IP Swiss Army Knife",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609428"
+		"Date":"1726034876"
 	},
 	{
-		"UID":"5737b8fd31e1ead585a7f9eb3a9008df",
+		"UID":"6d271b7bab8599c257e466ce4226663d",
 		"Name":"Nmap (7.94)",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -795,10 +795,10 @@
 		"Description":"Network discovery and security auditing tool",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609431"
+		"Date":"1726034880"
 	},
 	{
-		"UID":"745de86330e632d91068cc3a643ac70e",
+		"UID":"6fac44256dfe6141e1d1dfb060c034ed",
 		"Name":"PassTheCert",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -814,10 +814,10 @@
 		"Description":"Use a certificate to authenticate to an LDAP/S server through Schannel",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609425"
+		"Date":"1726034873"
 	},
 	{
-		"UID":"54f870aa6d84941b8af6b3178208d203",
+		"UID":"15601659c7ac9d661d26c53905453692",
 		"Name":"PetitPotam",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -833,10 +833,10 @@
 		"Description":"NTLM relay attack tool",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609429"
+		"Date":"1726034878"
 	},
 	{
-		"UID":"06892b21e9637beec5633f2e469bf66c",
+		"UID":"5930ab9f77c7820973b3db783086ea7b",
 		"Name":"Plink (0.81)",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -852,10 +852,10 @@
 		"Description":"A command-line connection tool similar to UNIX ssh for Windows",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609428"
+		"Date":"1726034876"
 	},
 	{
-		"UID":"2aeea8f7fd845fa7934b05a40bbbae44",
+		"UID":"73d72b4ca44c343fa4f3701cd11b0a62",
 		"Name":"PrintSpoofer",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -871,10 +871,10 @@
 		"Description":"Local Privilege Escalation tool",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609428"
+		"Date":"1726034876"
 	},
 	{
-		"UID":"5d95dc14b8bd70c66bb5831800637a25",
+		"UID":"9e37f85d289289eb0e7a4ff37354ee24",
 		"Name":"Rubeus",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -890,10 +890,10 @@
 		"Description":"Toolset for raw Kerberos interaction and abuses",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609427"
+		"Date":"1726034876"
 	},
 	{
-		"UID":"4bb6aac5eb7fc35457dc245cc15ceb13",
+		"UID":"ef98f420f2cf08c75e0b9128cbd78a66",
 		"Name":"Seatbelt (1.2.1)",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -909,10 +909,10 @@
 		"Description":"Local Gathering-info tool",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609429"
+		"Date":"1726034878"
 	},
 	{
-		"UID":"c6b66bc144ccecc0c4662d315dec95f8",
+		"UID":"0dbd51b749f8e0e0e8816185473283bc",
 		"Name":"SharpSQLPwn",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -928,10 +928,10 @@
 		"Description":"C# tool to identify and exploit weaknesses with MSSQL instances in Active Directory environments",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609429"
+		"Date":"1726034878"
 	},
 	{
-		"UID":"220beae5f6bb7c879eb9bbc58840b3a3",
+		"UID":"4c2f353a283b24a82b486dc4f5db912c",
 		"Name":"Socat (1.7.4.4)",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -947,10 +947,10 @@
 		"Description":"Multipurpose relay tool",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609425"
+		"Date":"1726034873"
 	},
 	{
-		"UID":"88727c6d89c8614caf707df8114bbb41",
+		"UID":"c21642917ca73b6f67dfeae0103a43d9",
 		"Name":"SpoolSample",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -966,10 +966,10 @@
 		"Description":"PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609427"
+		"Date":"1726034876"
 	},
 	{
-		"UID":"929b6a93d8a008ffbd6dc95e559960bf",
+		"UID":"d207e2b891dd8f902d9a04e1691887e2",
 		"Name":"WinPEAS (20240721)",
 		"Category":"TOOLBOX",
 		"MajorVersion":"0",
@@ -985,10 +985,10 @@
 		"Description":"Windows Privilege Escalation Awesome Script",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"tools2.png",
-		"Date":"1724609426"
+		"Date":"1726034874"
 	},
 	{
-		"UID":"7b0d77c34e7032f26ed02cfad87ac6aa",
+		"UID":"b833c1d01eb84e0554e486fe1ce078f6",
 		"Name":"Common-Password (1)",
 		"Category":"WORDLIST",
 		"MajorVersion":"0",
@@ -997,17 +997,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Wordlist/common-password-1.tar.gz",
-		"Checksum":"dea6afc5d5a7378ccaaaafc4057f021eca6c44224b58874348ac8dfc643ba399de8a505f3379cc6f0133559f06ce812cf9434f01fbd12921cc08ad2b3e160e4c",
+		"Checksum":"efa9a61bebe641deac76bc6fe57d4f5b2e8d779f8b9cc928d5b2009c88790e76ae28b175a90a3ee9b4d8b4c71b44aeec06a4ffe08f9771a7077e3eb85271b95d",
 		"URLChecksum":"",
-		"Size":"50446",
+		"Size":"50454",
 		"SizeOnDisk":"102300",
 		"Description":"Most common password list",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"pass2.png",
-		"Date":"1724609424"
+		"Date":"1726034872"
 	},
 	{
-		"UID":"206014201ff9b1178a9fe0856d5023b6",
+		"UID":"d6493df61ca784fe3963c825e157c673",
 		"Name":"Default-Password (1)",
 		"Category":"WORDLIST",
 		"MajorVersion":"0",
@@ -1023,10 +1023,10 @@
 		"Description":"Default password list",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"pass2.png",
-		"Date":"1724609423"
+		"Date":"1726034872"
 	},
 	{
-		"UID":"da6be0c98d08685adda6168eff761e5c",
+		"UID":"adc9326671950ec67db979d5fd05f9fa",
 		"Name":"Leaked-Password (1)",
 		"Category":"WORDLIST",
 		"MajorVersion":"0",
@@ -1042,10 +1042,10 @@
 		"Description":"Leaked password list",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"pass2.png",
-		"Date":"1724609419"
+		"Date":"1726034868"
 	},
 	{
-		"UID":"bed0943a00ac01c0c87c3d2aed6df938",
+		"UID":"90d8a190934f6839ecc601069a055d81",
 		"Name":"Misc-Password (1)",
 		"Category":"WORDLIST",
 		"MajorVersion":"0",
@@ -1061,10 +1061,10 @@
 		"Description":"Misc password list",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"pass2.png",
-		"Date":"1724609421"
+		"Date":"1726034870"
 	},
 	{
-		"UID":"4f625cd28ccb3ad5c6c13573278c2d21",
+		"UID":"165291045eeb0e59c87ee836060f544a",
 		"Name":"Rockyou Wordlist",
 		"Category":"WORDLIST",
 		"MajorVersion":"0",
@@ -1080,10 +1080,10 @@
 		"Description":"Rockyou wordlist",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"pass2.png",
-		"Date":"1724609423"
+		"Date":"1726034872"
 	},
 	{
-		"UID":"eac88fab0de3237d1ca97e5c12f6c486",
+		"UID":"24db3ac44936a4f89734fe4e0481435b",
 		"Name":"Rockyou Wordlist",
 		"Category":"WORDLIST",
 		"MajorVersion":"0",
@@ -1099,10 +1099,10 @@
 		"Description":"Rockyou wordlist (multi files)",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"pass2.png",
-		"Date":"1724609424"
+		"Date":"1726034872"
 	},
 	{
-		"UID":"f322231104e4a7f392aa6608459b020b",
+		"UID":"6ba620e8f9af52fc9a6acb7989a45fc3",
 		"Name":"User list (1)",
 		"Category":"WORDLIST",
 		"MajorVersion":"0",
@@ -1118,6 +1118,6 @@
 		"Description":"User list",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"user2.png",
-		"Date":"1724609424"
+		"Date":"1726034872"
 	}
 ]
