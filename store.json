@@ -627,6 +627,25 @@
 		"Date":"1726936549"
 	},
 	{
+		"UID":"1196f06b4470ab405ab2a09ee3b907ef",
+		"Name":"Online Investigation Toolkit",
+		"Category":"MISC",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/OSINT/osint.tar.gz",
+		"Checksum":"07fae15b1783ee11bba7148b7f6aa88aa983c52f6314c6066fb769cb07a8412f53a519bd7a9d3b1411df7fcca6197ee694a1e36ee238cb89d6cb6b92d73d0f3b",
+		"URLChecksum":"",
+		"Size":"3188",
+		"SizeOnDisk":"7211",
+		"Description":"Online Investigation Toolkit",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"link.png",
+		"Date":"1726948332"
+	},
+	{
 		"UID":"128e10bf50a0ad3e34b7bd5451e59382",
 		"Name":"AsyncRAT",
 		"Category":"RAT",
