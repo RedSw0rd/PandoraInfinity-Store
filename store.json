@@ -589,6 +589,25 @@
 		"Date":"1726232957"
 	},
 	{
+		"UID":"0b2823ed6c2cb62607c3d4a27cffbed4",
+		"Name":"Default Password Database",
+		"Category":"MISC",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/DefaultPasswordDB/defaultpassword.tar.gz",
+		"Checksum":"6f52b9959cd9758376ee521f511038cd01f744f366ab6b1b5b86adfb07d84ad7a0c1dc211e47ce136167dce4796ce19cd4746081d169425140ef0b0d00127810",
+		"URLChecksum":"",
+		"Size":"56465",
+		"SizeOnDisk":"136160",
+		"Description":"Default login/password database",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"password.png",
+		"Date":"1726912510"
+	},
+	{
 		"UID":"128e10bf50a0ad3e34b7bd5451e59382",
 		"Name":"AsyncRAT",
 		"Category":"RAT",
