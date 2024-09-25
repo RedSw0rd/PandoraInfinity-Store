@@ -608,7 +608,7 @@
 		"Date":"1726912510"
 	},
 	{
-		"UID":"6039a79dcd1fb2d6f2800d9b3a375e97",
+		"UID":"8c9ca14bc4a31b619a016a42b51e0fb1",
 		"Name":"Online Investigation Toolkit",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -617,14 +617,14 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/OSINT/osint.tar.gz",
-		"Checksum":"07fae15b1783ee11bba7148b7f6aa88aa983c52f6314c6066fb769cb07a8412f53a519bd7a9d3b1411df7fcca6197ee694a1e36ee238cb89d6cb6b92d73d0f3b",
+		"Checksum":"5154d319886b0d9b6933ed90769f3de68dca40ccf5671bf114770250505a6342b6fe4c89dc7507cba5d201580c9e5a7b4e7a47c1a756f2fc618f5bb696df66b2",
 		"URLChecksum":"",
-		"Size":"3188",
-		"SizeOnDisk":"7211",
+		"Size":"4083",
+		"SizeOnDisk":"9499",
 		"Description":"Online Investigation Toolkit",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"link.png",
-		"Date":"1726948542"
+		"Date":"1727305600"
 	},
 	{
 		"UID":"128e10bf50a0ad3e34b7bd5451e59382",
