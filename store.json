@@ -190,7 +190,7 @@
 		"Date":"1726232942"
 	},
 	{
-		"UID":"cf52b37d27bd7e07a21ba658f9548178",
+		"UID":"0e728d3e9a4e7dbf60e9bfc797d6cc2a",
 		"Name":"CredSLayer (0.1.3)",
 		"Category":"EXTRATOOL",
 		"MajorVersion":"0",
@@ -199,14 +199,14 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/ExtraTool/credslayer-v0.1.3.tar.gz",
-		"Checksum":"f0125a4ed65467e3d32c1b488de90f17527eca13ef48341e337a01ef26c159cbdcde286582b13c51932bd88d50aec575cc5e083f11574e4ffded90c06a6da852",
+		"Checksum":"6fa07aec5f1253cd2033af4c4b20b9185e115eaf775bd1b93752384cff86a4b465f9862ef5571e3ed7c27c78f6dddf5081a0c924db4d39b7aea4fed747cef142",
 		"URLChecksum":"",
-		"Size":"3905",
-		"SizeOnDisk":"12383",
+		"Size":"3941",
+		"SizeOnDisk":"12433",
 		"Description":"CredSLayer goal is to look for credentials and other useful stuff in network captures",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"console.png",
-		"Date":"1729770724"
+		"Date":"1729771537"
 	},
 	{
 		"UID":"c5018bbb8a2a82165469d877ec440799",
