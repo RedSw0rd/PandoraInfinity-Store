@@ -190,6 +190,25 @@
 		"Date":"1726232942"
 	},
 	{
+		"UID":"6fc2d411453e59b1c64aafdf4fb83cbf",
+		"Name":"HeartBleed",
+		"Category":"EXPLOIT",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/RemoteExploit/heartbleed.tar.gz",
+		"Checksum":"8d2e6dd8429ac399fe6460980885932dfcd1f5fc47013ec1ee2bbb1248c5c7f6ad48085ea0b87e3a50a6c90013fd4acbf77df609a2fb56c82835a35bf28adc9c",
+		"URLChecksum":"",
+		"Size":"12639",
+		"SizeOnDisk":"25450",
+		"Description":"Quick and dirty demonstration of CVE-2014-0160",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"skull2.png",
+		"Date":"1729822534"
+	},
+	{
 		"UID":"0e728d3e9a4e7dbf60e9bfc797d6cc2a",
 		"Name":"CredSLayer (0.1.3)",
 		"Category":"EXTRATOOL",
