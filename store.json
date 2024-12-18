@@ -1349,7 +1349,7 @@
 		"Date":"1726232949"
 	},
 	{
-		"UID":"dea03aaedd57bdee2ac7f74215bfdf0f",
+		"UID":"efa9f197883ead4d0f44ba82ccb4d9d5",
 		"Name":"User list (1)",
 		"Category":"WORDLIST",
 		"MajorVersion":"0",
@@ -1358,13 +1358,13 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Wordlist/userlist-1.tar.gz",
-		"Checksum":"92f66e3988fa0fd594de3378659fc842fb26ae9f4ef034ec364cc5d7ccfb912d0456980e486307c74de8252f178d7de8dae3030348474aa9beccd9611e870da7",
+		"Checksum":"20a30023c967ef3fcab125f492c1bbe782d6e0986b4ec244067bf251f8dd9cfc623a359c03d833a68a2b83cbfce9491f4c7722487d5a2047aac490371fe8ee2c",
 		"URLChecksum":"",
-		"Size":"3371",
+		"Size":"3381",
 		"SizeOnDisk":"12108",
 		"Description":"User list",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"user2.png",
-		"Date":"1726232949"
+		"Date":"1734566274"
 	}
 ]
