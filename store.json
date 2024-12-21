@@ -893,6 +893,25 @@
 		"Date":"1726232957"
 	},
 	{
+		"UID":"880e2d7b7792433e8978dbf5f8858f2e",
+		"Name":"Chisel (1.10.1)",
+		"Category":"TOOLBOX",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Toolbox/chisel-1.10.1.tar.gz",
+		"Checksum":"33dcb9b77c3f3bc30e538053b75845a4b957f02d7ef23ba9c0c0764eccffb5df78b9d426cd8bd7a1ae9a425298a734525586e592f1971461333d53faf36c8ee9",
+		"URLChecksum":"",
+		"Size":"18707106",
+		"SizeOnDisk":"46273131",
+		"Description":"A fast TCP/UDP tunnel over HTTP",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"tools2.png",
+		"Date":"1734767977"
+	},
+	{
 		"UID":"1d6321216aec85e3526dab28b27305f0",
 		"Name":"GodPotato",
 		"Category":"TOOLBOX",
