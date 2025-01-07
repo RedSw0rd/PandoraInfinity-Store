@@ -798,6 +798,25 @@
 		"Date":"1726959291"
 	},
 	{
+		"UID":"437ec1a3e3a17e0377c0e63a89727954",
+		"Name":"AD-Local-Enum (1)",
+		"Category":"MISC",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/OSINT/ad-local-enum-1.tar.gz",
+		"Checksum":"0c8f72f86eb522879b7402120ec2b17f9917aaefd153bb5e9c54f5f39cffed7588d6d08429206b3777b63199a99dffec0cce2d09f1f8c3920e4fe1a4d3ef817c",
+		"URLChecksum":"",
+		"Size":"957",
+		"SizeOnDisk":"2037",
+		"Description":"Active Directory enumeration from a local machine",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"payload2.png",
+		"Date":"1736290501"
+	},
+	{
 		"UID":"0b2823ed6c2cb62607c3d4a27cffbed4",
 		"Name":"Default Password Database",
 		"Category":"MISC",
