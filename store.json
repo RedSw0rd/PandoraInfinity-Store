@@ -817,6 +817,25 @@
 		"Date":"1736297541"
 	},
 	{
+		"UID":"eecc346a9c5a22b6e3cc049d1eb54e87",
+		"Name":"AD-Password-Cracking-Hash-Interception (1)",
+		"Category":"MISC",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/ad-password-cracking-hash-interception-1.tar.gz",
+		"Checksum":"18217c6663ed28aedd167e31e147a3a01bf88025a47273dd02ebbc974bfd0efbc2322018b22ca5b6609fe9b4c09b2ffe94a546d68d93b00151d7ebca54531d49",
+		"URLChecksum":"",
+		"Size":"1312",
+		"SizeOnDisk":"2919",
+		"Description":"Active Directory Pentest Part 4 - Password Cracking and Hash Interception",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"payload2.png",
+		"Date":"1736404574"
+	},
+	{
 		"UID":"64e4e8e7083364c398c0435c90c4469d",
 		"Name":"AD-Recon (1)",
 		"Category":"MISC",
