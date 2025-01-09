@@ -836,7 +836,7 @@
 		"Date":"1736297541"
 	},
 	{
-		"UID":"d73197dc741b25c3ea4522c53f3a00aa",
+		"UID":"2939775b169cbb270d1e6f31a51b1769",
 		"Name":"AD-NTLM-Relay (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -845,14 +845,14 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/ad-ntlm-relay-1.tar.gz",
-		"Checksum":"156486ece9bbef11285558883dd76ef6864875d0b02ce38edb3bfde8bd9afb639a17063a49f412c27c8a00996839bc15169c20c16185798f4f734a17dd489a35",
+		"Checksum":"382ed6a422b3603d28acfc4e0874b0704e16c46ef2449173b78cfe60f30e822bd0d2e5f38722eebe204230661756b9a0f5ba8b8a51beedf58a6ad62b1ea313a6",
 		"URLChecksum":"",
-		"Size":"2583",
-		"SizeOnDisk":"6201",
+		"Size":"2576",
+		"SizeOnDisk":"6185",
 		"Description":"Active Directory Pentest Part 4 - NTLM Relay",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736418500"
+		"Date":"1736419262"
 	},
 	{
 		"UID":"eecc346a9c5a22b6e3cc049d1eb54e87",
