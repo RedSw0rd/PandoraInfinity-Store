@@ -798,6 +798,25 @@
 		"Date":"1726959291"
 	},
 	{
+		"UID":"3e35b660ad84d903dc1c16ad7b237921",
+		"Name":"AD-Fundamentals (1)",
+		"Category":"MISC",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/ad-fundamentals-1.tar.gz",
+		"Checksum":"6886dc5a6dbabfe02c3f979942b81fb9e0860b1a897eac1b461cd81b717ea25f705afe26d959ac6fbe7a094273db848f58a91b8231f2d10e5009fe217c83d4db",
+		"URLChecksum":"",
+		"Size":"2571",
+		"SizeOnDisk":"6194",
+		"Description":"Active Directory Pentest Part 0 - Fundamentals",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"payload2.png",
+		"Date":"1736418487"
+	},
+	{
 		"UID":"faa59242b7afaa7d4f98eccd8fd07572",
 		"Name":"AD-Local-Enum (1)",
 		"Category":"MISC",
@@ -815,6 +834,25 @@
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
 		"Date":"1736297541"
+	},
+	{
+		"UID":"d73197dc741b25c3ea4522c53f3a00aa",
+		"Name":"AD-NTLM-Relay (1)",
+		"Category":"MISC",
+		"MajorVersion":"0",
+		"MinorVersion":"0",
+		"BuildVersion":"1",
+		"RequireMin":"0",
+		"RequireMax":"0",
+		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/ad-ntlm-relay-1.tar.gz",
+		"Checksum":"156486ece9bbef11285558883dd76ef6864875d0b02ce38edb3bfde8bd9afb639a17063a49f412c27c8a00996839bc15169c20c16185798f4f734a17dd489a35",
+		"URLChecksum":"",
+		"Size":"2583",
+		"SizeOnDisk":"6201",
+		"Description":"Active Directory Pentest Part 4 - NTLM Relay",
+		"Builder":"Ulysse@redsword.io",
+		"Icon":"payload2.png",
+		"Date":"1736418500"
 	},
 	{
 		"UID":"eecc346a9c5a22b6e3cc049d1eb54e87",
