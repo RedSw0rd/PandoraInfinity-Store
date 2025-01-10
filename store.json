@@ -798,7 +798,7 @@
 		"Date":"1726959291"
 	},
 	{
-		"UID":"14d5ebb2a33ec6515bb12f87e35105f3",
+		"UID":"e1aaeb0874307fd6d3cc68a2d4c98f8e",
 		"Name":"AD-Coercing (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -807,17 +807,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/ad-coercing-1.tar.gz",
-		"Checksum":"1f1f219f1fb1d893581e732670528375a7ef4ee841afec7af318bf51177799d2b1aa21cebf6e00d1d00b93f80fce6c45ad7b456a1a883d0b67ce03b2a833623c",
+		"Checksum":"4434b0de0164ada55e26208c961a86c9a989a955fe85fffd7223d4d27ff833a08d99d0ba665fac0574b2e3ca497d61083b06fc9487678f8758615194fe920819",
 		"URLChecksum":"",
-		"Size":"2571",
+		"Size":"2569",
 		"SizeOnDisk":"6200",
-		"Description":"Active Directory Pentest Part 5 - Authentification Coercing",
+		"Description":"Active Directory Pentest Part 9 - Authentification Coercing",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736496480"
+		"Date":"1736499583"
 	},
 	{
-		"UID":"1f0f19655cf2da303555bcd839ef653f",
+		"UID":"5b52abf90175041ee7c0c51e75135fe9",
 		"Name":"AD-First-Domain-Admin-Credential (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -833,10 +833,10 @@
 		"Description":"Active Directory Pentest Part 10 - First Domain Admin Credential",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736496530"
+		"Date":"1736499594"
 	},
 	{
-		"UID":"62ba021b07ee6c0ebe18a0298c1b9072",
+		"UID":"0619d94891eb0cba184e3c5b6f158531",
 		"Name":"AD-First-Domain-User-Credential (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -845,17 +845,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/ad-first-domain-user-credential-1.tar.gz",
-		"Checksum":"64a89b09c212d3e84ea2017bd132653d323fde741ded0cff62d94614198fe2638b3b40861b2a1960baafb33e3081129d5fb4879415fc192a0c62d13ba0a866e5",
+		"Checksum":"229d2579986361710f7a07bdffa60778eb3ab707b5f92e75ee0f30e9ff7cf49ecb30711d775293b832afdb69e8b230c6312edeaaf927d5c9cd10e6a8e6cd4afe",
 		"URLChecksum":"",
-		"Size":"2588",
+		"Size":"2586",
 		"SizeOnDisk":"6223",
-		"Description":"Active Directory Pentest Part 9 - First Domain User Credential",
+		"Description":"Active Directory Pentest Part 8 - First Domain User Credential",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736496523"
+		"Date":"1736499576"
 	},
 	{
-		"UID":"4859cbd85d1a3e987a95a9b358288068",
+		"UID":"00e5946bee99ae27fa60e6b90170e285",
 		"Name":"AD-First-Local-Admin-Credential (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -864,17 +864,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/ad-first-local-admin-credential-1.tar.gz",
-		"Checksum":"357518b441f8bc7e5f7f2f1da204c27f7227b4e3ddad0cd75e353acddad0fb5be2f967c50243f1d239353aff4dcb375e286f1537db9323ac8a7f4615b8eebb84",
+		"Checksum":"9259c4923ee507f3c3fc8e467507c60d2f0ff88ce46494ab439a938dc30aab7c3e893c4aaf81e32fb72b5006a5da62f830cb90a2137a50e2d1d11dcdbd41c79a",
 		"URLChecksum":"",
-		"Size":"2595",
+		"Size":"2594",
 		"SizeOnDisk":"6223",
-		"Description":"Active Directory Pentest Part 8 - First Local Admin Credential",
+		"Description":"Active Directory Pentest Part 7 - First Local Admin Credential",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736496515"
+		"Date":"1736499562"
 	},
 	{
-		"UID":"3f24b3e45f107dd5f1c45a8ce9ab37d9",
+		"UID":"460aa1fdf95b2e557e935f3a9f43a64c",
 		"Name":"AD-First-Local-User-Credential (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -883,17 +883,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/ad-first-local-user-credential-1.tar.gz",
-		"Checksum":"1ba9213ad401d48850ff13c542d0fcc5c53a6bc67bf1ac9f445d85c0316bfb8e373ae637b73006e4b5e20a03ae73c41a59189ae3065971ddda95fcdd1874bdbd",
+		"Checksum":"2a1b4be24a012d0628d5a3613df1c0b8b32e6b5b65551abca208326858b647a10ec697dad5db52bf48ddd9aa471047aabfa73266c2cd3c9a70c0d82e29b0f8e2",
 		"URLChecksum":"",
 		"Size":"2592",
 		"SizeOnDisk":"6220",
-		"Description":"Active Directory Pentest Part 7 - First Local User Credential",
+		"Description":"Active Directory Pentest Part 6 - First Local User Credential",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736496505"
+		"Date":"1736499552"
 	},
 	{
-		"UID":"682946e044a9e026c7ce3d6e5666289f",
+		"UID":"0f9ee2fbaa0427084a663b8c72b0aa6c",
 		"Name":"AD-Fundamentals (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -909,10 +909,10 @@
 		"Description":"Active Directory Pentest Part 0 - The Fundamentals",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736496414"
+		"Date":"1736499443"
 	},
 	{
-		"UID":"55e1e5572b449765e226d5a14dbbefc4",
+		"UID":"cbb298b3ad2bf1322d73b80da9c74e5e",
 		"Name":"AD-NTLM-Relay (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -928,10 +928,10 @@
 		"Description":"Active Directory Pentest Part 4 - NTLM Relay",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736496459"
+		"Date":"1736499517"
 	},
 	{
-		"UID":"a7826d6dcb9562a9a8b21f24e5fce8b2",
+		"UID":"9eff9e31c6b990046f4cd7279edaed60",
 		"Name":"AD-Pass-The-Hash-And-Others (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -940,17 +940,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/ad-pass-the-hash-and-others-1.tar.gz",
-		"Checksum":"1831747959228f010948417e2357b062a0b5d314b7747df5049373fad8851dafa39a4d88c18a7030ae17f4e9b46c9ccb58d0c67d6c966498d72d1c8eb2ac5014",
+		"Checksum":"0980736b3819cd416e3eb7d03724aeb38bfcd7f1a08dce3999b09cbebb609b5812e885ce96bc41dad8c15ed07e68dafe30b1a17acab914dc93bcb61eb97814d5",
 		"URLChecksum":"",
-		"Size":"2600",
+		"Size":"2599",
 		"SizeOnDisk":"6210",
-		"Description":"Active Directory Pentest Part 6 - Pass the Hash and Others",
+		"Description":"Active Directory Pentest Part 5 - Pass the Hash and Others",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736496491"
+		"Date":"1736499526"
 	},
 	{
-		"UID":"13cd61198e29652ccf1fadadff5129c8",
+		"UID":"414557d9b549fe584d64cf3879efecd7",
 		"Name":"AD-Password-Cracking-Hash-Interception (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -966,10 +966,10 @@
 		"Description":"Active Directory Pentest Part 3 - Password Cracking and Hash Hunting",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736496451"
+		"Date":"1736499481"
 	},
 	{
-		"UID":"f748d4410ea7aacfc85aaf28ca76ed3f",
+		"UID":"7fc3cceeb903047c7e9b268e7df863c3",
 		"Name":"AD-Recon (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -985,10 +985,10 @@
 		"Description":"Active Directory Pentest Part 1 - Reconnaissance phase",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736496430"
+		"Date":"1736499453"
 	},
 	{
-		"UID":"d5456c2d8d14fce686f8f7e6fe7f5671",
+		"UID":"2097f5c7336cefc5bf36f0dfd82f5238",
 		"Name":"AD-User-Enum (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -1004,7 +1004,7 @@
 		"Description":"Active Directory Pentest Part 2 - User Enumeration - Build a valid account list",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736496437"
+		"Date":"1736499470"
 	},
 	{
 		"UID":"0b2823ed6c2cb62607c3d4a27cffbed4",
