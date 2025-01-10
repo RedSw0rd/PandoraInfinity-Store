@@ -798,7 +798,7 @@
 		"Date":"1726959291"
 	},
 	{
-		"UID":"3b94805072078369680752e213ae3ea4",
+		"UID":"14d5ebb2a33ec6515bb12f87e35105f3",
 		"Name":"AD-Coercing (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -814,10 +814,10 @@
 		"Description":"Active Directory Pentest Part 5 - Authentification Coercing",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736495253"
+		"Date":"1736496480"
 	},
 	{
-		"UID":"2c68f249dddf7ebc3165ee7e17330351",
+		"UID":"1f0f19655cf2da303555bcd839ef653f",
 		"Name":"AD-First-Domain-Admin-Credential (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -826,17 +826,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/ad-first-domain-admin-credential-1.tar.gz",
-		"Checksum":"3dd98b1052a5bf839b1173b7f4ec50ff6e6d9a59e4332b5fc455e87e6bfdc68214441121e981670f3ae9c8bab627948e914a1cf4aee813fae788439bdf00f6aa",
+		"Checksum":"dac871f56cd0401a1c78c26d329aca3e00cb10e88082a5dc6d609af632d590a178970f6dcc141c7a09f2c3563d1afed6c6670710b7d452caadc38ff172f290bd",
 		"URLChecksum":"",
-		"Size":"878",
-		"SizeOnDisk":"1995",
+		"Size":"2589",
+		"SizeOnDisk":"6227",
 		"Description":"Active Directory Pentest Part 10 - First Domain Admin Credential",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736495326"
+		"Date":"1736496530"
 	},
 	{
-		"UID":"04357c0221c4eeb417c43c9f2fead1ed",
+		"UID":"62ba021b07ee6c0ebe18a0298c1b9072",
 		"Name":"AD-First-Domain-User-Credential (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -852,10 +852,10 @@
 		"Description":"Active Directory Pentest Part 9 - First Domain User Credential",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736495300"
+		"Date":"1736496523"
 	},
 	{
-		"UID":"e5c487441d01b4228b937eb299fb0e75",
+		"UID":"4859cbd85d1a3e987a95a9b358288068",
 		"Name":"AD-First-Local-Admin-Credential (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -864,17 +864,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/ad-first-local-admin-credential-1.tar.gz",
-		"Checksum":"8eacf11b796f2475c63a4f883b617df2d38d4bf88e2028bd5ffce024ff4a2a0f0ce16d497460c6abea7970c65c971c016d1121d0aa677e3c04d41e45eb634ce5",
+		"Checksum":"357518b441f8bc7e5f7f2f1da204c27f7227b4e3ddad0cd75e353acddad0fb5be2f967c50243f1d239353aff4dcb375e286f1537db9323ac8a7f4615b8eebb84",
 		"URLChecksum":"",
-		"Size":"877",
-		"SizeOnDisk":"1992",
+		"Size":"2595",
+		"SizeOnDisk":"6223",
 		"Description":"Active Directory Pentest Part 8 - First Local Admin Credential",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736495291"
+		"Date":"1736496515"
 	},
 	{
-		"UID":"50a48140c5e55fb0777134a8e215a880",
+		"UID":"3f24b3e45f107dd5f1c45a8ce9ab37d9",
 		"Name":"AD-First-Local-User-Credential (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -883,17 +883,17 @@
 		"RequireMin":"0",
 		"RequireMax":"0",
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Resource/ad-first-local-user-credential-1.tar.gz",
-		"Checksum":"8df899680951d5c90ddff1f95181666670f8e59e4fcbc95cb7cc343230b0b38888723090138d4db1e17497a2f7dbbf39c8ce3b68225ff6f28507e601358ea02c",
+		"Checksum":"1ba9213ad401d48850ff13c542d0fcc5c53a6bc67bf1ac9f445d85c0316bfb8e373ae637b73006e4b5e20a03ae73c41a59189ae3065971ddda95fcdd1874bdbd",
 		"URLChecksum":"",
-		"Size":"877",
-		"SizeOnDisk":"1990",
+		"Size":"2592",
+		"SizeOnDisk":"6220",
 		"Description":"Active Directory Pentest Part 7 - First Local User Credential",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736495283"
+		"Date":"1736496505"
 	},
 	{
-		"UID":"9e7c8eb7d2e86eda4004000c3dcfb69b",
+		"UID":"682946e044a9e026c7ce3d6e5666289f",
 		"Name":"AD-Fundamentals (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -909,10 +909,10 @@
 		"Description":"Active Directory Pentest Part 0 - The Fundamentals",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736495190"
+		"Date":"1736496414"
 	},
 	{
-		"UID":"f8f8c92e0c1a5bf5462d330ce225a802",
+		"UID":"55e1e5572b449765e226d5a14dbbefc4",
 		"Name":"AD-NTLM-Relay (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -928,10 +928,10 @@
 		"Description":"Active Directory Pentest Part 4 - NTLM Relay",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736495243"
+		"Date":"1736496459"
 	},
 	{
-		"UID":"c5e83ccaf804a9581678289aef22fc9c",
+		"UID":"a7826d6dcb9562a9a8b21f24e5fce8b2",
 		"Name":"AD-Pass-The-Hash-And-Others (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -947,10 +947,10 @@
 		"Description":"Active Directory Pentest Part 6 - Pass the Hash and Others",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736495265"
+		"Date":"1736496491"
 	},
 	{
-		"UID":"01cc10079122c8f6daef6acb8f167e03",
+		"UID":"13cd61198e29652ccf1fadadff5129c8",
 		"Name":"AD-Password-Cracking-Hash-Interception (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -966,10 +966,10 @@
 		"Description":"Active Directory Pentest Part 3 - Password Cracking and Hash Hunting",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736495233"
+		"Date":"1736496451"
 	},
 	{
-		"UID":"ecc707ed64acf092320bc179315b40bf",
+		"UID":"f748d4410ea7aacfc85aaf28ca76ed3f",
 		"Name":"AD-Recon (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -985,10 +985,10 @@
 		"Description":"Active Directory Pentest Part 1 - Reconnaissance phase",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736495206"
+		"Date":"1736496430"
 	},
 	{
-		"UID":"90a3f599f04c4b69013aa9536665d3cb",
+		"UID":"d5456c2d8d14fce686f8f7e6fe7f5671",
 		"Name":"AD-User-Enum (1)",
 		"Category":"MISC",
 		"MajorVersion":"0",
@@ -1004,7 +1004,7 @@
 		"Description":"Active Directory Pentest Part 2 - User Enumeration - Build a valid account list",
 		"Builder":"Ulysse@redsword.io",
 		"Icon":"payload2.png",
-		"Date":"1736495220"
+		"Date":"1736496437"
 	},
 	{
 		"UID":"0b2823ed6c2cb62607c3d4a27cffbed4",
