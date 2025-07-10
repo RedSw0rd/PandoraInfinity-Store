@@ -1,12 +1,12 @@
 [
 	{
 		"PackageID":"393e7f1cd9fa9333151189b0fde062f0",
-		"Name":"",
+		"Name":"Online Investigation Toolkit",
 		"Category":"MISC",
 		"MajorVersion":"0",
 		"MinorVersion":"1",
 		"BuildVersion":"0",
-		"BuildID":"1202b55086cdddb8b598efd075d21059fc8bea6e772f358f4a9768bc54771c0e",
+		"BuildID":"b8ffe9f718b1feecdfae486bd5f430c31f20611d186478d78c4db0744f74a858",
 		"UpstreamVersion":"n/a",
 		"RequirePandoraMin":"*",
 		"RequirePandoraMax":"*",
@@ -14,9 +14,9 @@
 		"Architecture":["amd64", "arm64"],
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/OSINT/osint-0.1.0.tar.gz",
 		"SignatureURL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/OSINT/osint-0.1.0.sig",
-		"Size":"9145",
+		"Size":"9134",
 		"SizeOnDisk":"23798",
-		"Files":["test", "OnlineInvestigationToolkit.csv"],
+		"Files":["OnlineInvestigationToolkit.csv"],
 		"Description":"Online Investigation Toolkit",
 		"Changelog":"Initial version",
 		"Tags":["osint", "recon"],
@@ -31,6 +31,6 @@
 		"Packager":"Ulysse",
 		"SupportContact":"ulysse@redsword.io",
 		"Icon":"link.png",
-		"Date":1752174766
+		"Date":1752175860
 	}
 ]
