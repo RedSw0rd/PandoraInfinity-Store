@@ -278,7 +278,7 @@
 		"MajorVersion":"0",
 		"MinorVersion":"1",
 		"BuildVersion":"0",
-		"BuildID":"a3ae9d7f08975e65bb46b667647fac31b17be17f526668c31409597e6639327f",
+		"BuildID":"26e5ee12313cc969e4c6472ac33d0c6c6c5c1bea343b79ebb060803b4b233080",
 		"UpstreamVersion":"n/a",
 		"RequirePandoraMin":"0.1.0.0",
 		"RequirePandoraMax":"*",
@@ -286,7 +286,7 @@
 		"Architecture":["amd64", "arm64"],
 		"URL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Misc/VulnMachineCatalog/vulnmachinecatalog-0.1.0.tar.gz",
 		"SignatureURL":"https://raw.githubusercontent.com/RedSw0rd/PandoraInfinity-Store/master/Misc/VulnMachineCatalog/vulnmachinecatalog-0.1.0.sig",
-		"Size":"7911",
+		"Size":"7926",
 		"SizeOnDisk":"29681",
 		"Files":["catalog.db"],
 		"Description":"A catalog of vulnerable machines running in containers for the training center",
@@ -303,6 +303,6 @@
 		"Packager":"Ulysse",
 		"SupportContact":"ulysse@redsword.io",
 		"Icon":"link.png",
-		"Date":1752837412
+		"Date":1752876812
 	}
 ]
